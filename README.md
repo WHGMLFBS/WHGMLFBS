@@ -1,3 +1,3 @@
-## Hi there 👋 
-### I'm HanYung
-#### I'm studying programming
+### Hi there 👋 
+#### I'm HanYung :)
+
