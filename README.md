@@ -1,2 +1,2 @@
 ## Hi there 👋 
-### I'm Kkoreng
+### I'm kkoreng
